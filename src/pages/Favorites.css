@@ -1,0 +1,14 @@
+.favorites-page {
+  padding: 120px 5% 40px;
+}
+
+.favorites-page h1 {
+  font-size: 1.8rem;
+  margin-bottom: 24px;
+}
+
+.favorites-page p {
+  color: var(--text-secondary);
+  text-align: center;
+  margin-top: 60px;
+}
